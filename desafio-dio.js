@@ -1,4 +1,4 @@
-unction calculadoraRankeadas(vitorias, derrotas) {
+function calculadoraRankeadas(vitorias, derrotas) {
     let saldoVitorias = vitorias - derrotas;
     let nivel = '';
 
